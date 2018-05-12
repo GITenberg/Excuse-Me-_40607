@@ -1,0 +1,33 @@
+_repo: Excuse-Me-_40607
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40607-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Hughes, Rupert
+    birthdate: 1872
+    deathdate: 1956
+    gutenberg_agent_id: '2334'
+    url: http://www.gutenberg.org/2009/agents/2334
+    wikipedia: http://en.wikipedia.org/wiki/Rupert_Hughes
+description: Belasco Theatre, Washington, D.C., David Belasco and Sam S. and Lee Shubert,
+  proprietors and managers, direction of Sam S. and Lee Shubert (Inc.) L. Stoddard
+  Taylor, resident manager. Henry W. Savage offers "Excuse Me," by Rupert Hughes.
+  A Pullman carnival, staged by George Marion.
+gutenberg_issued: '2012-08-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40607'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Railroad stories'
+- !lcsh 'Humorous stories'
+- !lcc 'PS'
+- !lcsh 'Railroad travel -- Fiction'
+- !lcsh 'Pullman cars -- Fiction'
+title: Excuse Me!
+url: http://www.gutenberg.org/ebooks/40607
